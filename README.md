@@ -23,10 +23,7 @@ control de inventario de la mercancía.<o:p></o:p></span></p>
 
 <table  border=0 cellspacing=0 cellpadding=0 width=50%>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:10.75pt'>
-  <td width=204 valign=top style='width:152.95pt;border:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:10.75pt'>
-  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
-  normal'><span lang=es>Roles del equipo<o:p></o:p></span></b></p>
+  <td width=204 rowspan=2 >Roles del equipo
   </td>
   <td width=204 valign=top style='width:152.95pt;border:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:10.75pt'>
