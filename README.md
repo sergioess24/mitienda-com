@@ -5,10 +5,10 @@ William Vanegas OK
 
 <div>
 
-<h2 align=center style='text-align:center'><b><span lang=es style='color:black;
+<h4 align=center style='text-align:center'><b><span lang=es style='color:black;
 mso-themecolor:text1'>MINTIC S1 - Grupo 3.<o:p></o:p></span></b></h2>
 
-<p class=MsoTitle align=center style='text-align:center'><span lang=es>mitienda.com<o:p></o:p></span></p>
+<h1 align=center style='text-align:center'><span lang=es>mitienda.com<o:p></o:p></span></h1>
 
 <p class=MsoNormal style='text-align:justify'><span lang=es><span
 style='mso-spacerun:yes'> </span><o:p></o:p></span></p>
@@ -21,10 +21,7 @@ control de inventario de la mercancía.<o:p></o:p></span></p>
 
 <p style='text-align:justify'><span lang=es><o:p>&nbsp;</o:p></span></p>
 
-<table  border=1 cellspacing=0 cellpadding=0 width=408
- style='width:305.9pt;border-collapse:collapse;border:none;mso-yfti-tbllook:
- 1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:cell-none;
- mso-border-insidev:cell-none'>
+<table  border=0 cellspacing=0 cellpadding=0 width=50%>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:10.75pt'>
   <td width=204 valign=top style='width:152.95pt;border:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:10.75pt'>
