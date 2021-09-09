@@ -1,7 +1,5 @@
 
-andres perez ok
-Cesar Mendoza ok
-William Vanegas OK
+SEMANA 2 DE TRABAJO
 
 <div>
 
