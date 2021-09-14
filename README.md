@@ -1,9 +1,4 @@
 
-Sergio -  Este texto fue modificado desde el equpo Local
-
-
-SEMANA 2 DE TRABAJO
-
 <div>
 
 <h4 align=center style='text-align:center'><b><span lang=es style='color:black;
